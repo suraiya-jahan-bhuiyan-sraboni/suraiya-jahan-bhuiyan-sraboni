@@ -2,7 +2,7 @@
 <h1 align="center">I'm Suraiya</h1>
 <h3 align="center">I share knowledge through my code, articles, posts and talks💙️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraiya-jahan-bhuiyan-sraboni&label=Profile%20views&color=0e75b6&style=flat" alt="suraiya-jahan-bhuiyan-sraboni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraiya-jahan-bhuiyan-sraboni&label=Profile%20views&color=0e7699&style=flat" alt="suraiya-jahan-bhuiyan-sraboni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraiya-jahan-bhuiyan-sraboni" alt="suraiya-jahan-bhuiyan-sraboni" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
