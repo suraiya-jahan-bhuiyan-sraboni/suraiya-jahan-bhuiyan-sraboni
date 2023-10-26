@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi, I'm Suraiya</h1>
+<h1 align="center">I'm Suraiya</h1>
 <h3 align="center">I share knowledge through my code, articles, posts and talks💙️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraiya-jahan-bhuiyan-sraboni&label=Profile%20views&color=0e75b6&style=flat" alt="suraiya-jahan-bhuiyan-sraboni" /> </p>
