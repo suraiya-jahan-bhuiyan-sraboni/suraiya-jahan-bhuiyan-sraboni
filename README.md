@@ -3,6 +3,7 @@
 <h1 align="center"><b>🌟 I'm Suraiya 🌟</b></h1>
 <h3 align="center">Frontend Developer | Aspiring Full Stack Engineer 🚀</h3>
 <p align="center">Passionate about crafting user-centric, responsive, and scalable web applications.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraiya-jahan-bhuiyan-sraboni&label=Profile%20views&color=0e75b6&style=flat" alt="suraiya-jahan-bhuiyan-sraboni" /> </p>
 
 ---
 
