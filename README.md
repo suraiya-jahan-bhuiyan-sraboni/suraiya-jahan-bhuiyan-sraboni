@@ -3,8 +3,7 @@
 <h3 align="center">I share knowledge through my code, articles, posts and talks💙️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraiya-jahan-bhuiyan-sraboni&label=Profile%20views&color=0e7699&style=flat" alt="suraiya-jahan-bhuiyan-sraboni" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraiya-jahan-bhuiyan-sraboni" alt="suraiya-jahan-bhuiyan-sraboni" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraiya-jahan-bhuiyan-sraboni" alt="suraiya-jahan-bhuiyan-sraboni" /></a> </p> -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
