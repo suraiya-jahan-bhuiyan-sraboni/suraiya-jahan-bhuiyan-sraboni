@@ -1,5 +1,19 @@
+
+### Hi, there! 👋 
+<h1 align="center"><b>🌟 I'm Suraiya 🌟</b></h1>
+<h3 align="center">Frontend Developer | Aspiring Full Stack Engineer 🚀</h3>
+<p align="center">Passionate about crafting user-centric, responsive, and scalable web applications.</p>
+
+---
+
+
 # 💫 About Me:
-🔭 I’m currently working on an E-commerce and Courier Service App — building both frontend and backend with features like real-time tracking, order management, and secure payment integration.<br>👯 I’m looking to collaborate on full-stack web projects, especially those using MERN stack, Firebase, or third-party APIs or open-source apps that solve real-life problems.<br>🤝 I’m looking for help with scaling backend performance, optimizing database queries, and integrating advanced logistics and security algorithms.<br>🌱 I’m currently learning MERN stack technologies (MongoDB, Express.js, React, Node.js) to build scalable and dynamic web applications.<br>💬  Ask me about React, Express.js, MongoDB, Firebase Auth, or anything related to building scalable web apps.<br>⚡ Fun fact: I can debug better at midnight than in the morning — night owl dev mode activated! 🌙👨‍💻
+- 🔭 **I’m currently working on** an E-commerce and Courier Service App — building both frontend and backend with features like real-time tracking, order management, and secure payment integration.<br>
+- 👯 **I’m looking to collaborate on** full-stack web projects, especially those using MERN stack, Firebase, or third-party APIs or open-source apps that solve real-life problems.<br>
+- 🤝 **I’m looking for help with** scaling backend performance, optimizing database queries, and integrating advanced logistics and security algorithms.<br>
+- 🌱 **I’m currently learning** MERN stack technologies (MongoDB, Express.js, React, Node.js) to build scalable and dynamic web applications.<br>
+- 💬  **Ask me about** React, Express.js, MongoDB, Firebase Auth, or anything related to building scalable web apps.<br>
+- ⚡ **Fun fact:** I can debug better at midnight than in the morning — night owl dev mode activated! 🌙👨‍💻
 
 
 ## 🌐 Socials:
