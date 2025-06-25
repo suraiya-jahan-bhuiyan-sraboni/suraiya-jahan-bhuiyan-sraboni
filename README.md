@@ -15,6 +15,8 @@
 - 💬  **Ask me about** React, Express.js, MongoDB, Firebase Auth, or anything related to building scalable web apps.<br>
 - ⚡ **Fun fact:** I can debug better at midnight than in the morning — night owl dev mode activated! 🌙👨‍💻
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=suraiya-jahan-bhuiyan-sraboni&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraiya-jahan-bhuiyan-sraboni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suraiya.jahan.bhuiyan.12@gmail.com) 
@@ -26,16 +28,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=suraiya-jahan-bhuiyan-sraboni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suraiya-jahan-bhuiyan-sraboni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suraiya-jahan-bhuiyan-sraboni&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suraiya-jahan-bhuiyan-sraboni&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suraiya-jahan-bhuiyan-sraboni&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
