@@ -16,7 +16,7 @@
 - 💬  **Ask me about** React, Express.js, MongoDB, Firebase Auth, or anything related to building scalable web apps.<br>
 - ⚡ **Fun fact:** I can debug better at midnight than in the morning — night owl dev mode activated! 🌙👨‍💻
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=suraiya-jahan-bhuiyan-sraboni&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
